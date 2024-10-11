@@ -30,7 +30,7 @@
 * `ls`
 * `cd 5Y`
 * `ls`
-* `bash pop.sh`
+* `bash 5Y.sh`
 ```
 [+]--Now make sue that you internet connection is on and after that the installation starts automatically
 [+]--After the installation succesfully completes you will see a THANKS text on screen after that a new text appears
